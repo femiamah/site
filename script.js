@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Smooth scrolling for navigation links
+    // Smooth scrolling for navigation link
     const navLinks = document.querySelectorAll('nav ul li a');
 
     navLinks.forEach(link => {
